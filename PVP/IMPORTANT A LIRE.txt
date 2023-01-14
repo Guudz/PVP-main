@@ -1,0 +1,40 @@
+############### BELOUMIIX GAMING ###############
+
+Utilisation des scripts :
+
+PvP pour pouvoir utiliser des armes et se battre sur FiveM
+mumble-voip  pour pouvoir parler en jeu
+rp radio  pour utiliser la radio en jeu MAJ + F9 
+vSync pour changer le temps et la meteo avec la commande weather et time
+nodroppnj pour empecher les pnj de drop des armes
+
+dans votre server.cfg : 
+
+start PvP
+start mumble-voip
+start rp-radio
+start vSync
+start nodroppnj
+
+
+Commande disponible avec vSync :
+
+Pour changer le temps
+/time heures minutes   exemple /time 12 00
+
+Pour changer la météo
+/weather type de météo  exemple /weather extrasunny
+
+Type de météo: extrasunny, clear, neutral, smog, foggy, overcast, clouds, clearing, rain, thunder, snow, blizzard, snowlight, xmas & halloween
+/time Changer le temps.
+/freezetime Freeze / défreeze temps
+/freezeweather Activer/Désactiver la météo dynamique
+/morning Mettre le temps sur 09:00
+/noon Mettre le temps sur 12:00
+/evening Mettre le temps sur 18:00
+/night Mettre le temps sur 23:00
+/blackout Activer le mode Blackout.
+
+
+
+Si vous avez des questions n'hesitez pas à me contacter sur discord  Alex39#4870
